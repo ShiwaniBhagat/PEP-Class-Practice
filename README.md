@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
