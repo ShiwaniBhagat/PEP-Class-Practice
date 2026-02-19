@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0707-design-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ShiwaniBhagat/PEP-Class-Practice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
